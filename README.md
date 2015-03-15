@@ -19,3 +19,6 @@ Technology used in this project:
 - Visualization using D3.js
 - PHP (Codeigniter, Grocery CRUD)
 - JavaScript (FUllCalendar, SB Admin - Free Bootstrap)
+ 
+Team members: Azharuddin Priyotomo, Congyuan Tang, Viseth Sean
+
