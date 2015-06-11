@@ -20,5 +20,5 @@ Technology used in this project:
 - PHP (Codeigniter, Grocery CRUD)
 - JavaScript (FUllCalendar, SB Admin - Free Bootstrap)
  
-Team members: Azharuddin Priyotomo, Congyuan Tang, Viseth Sean
+Team members: Viseth Sean, Azharuddin Priyotomo, Congyuan Tang
 
